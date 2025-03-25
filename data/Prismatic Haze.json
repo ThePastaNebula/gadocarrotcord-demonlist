@@ -1,0 +1,18 @@
+{
+    "name": "Prismatic Haze",
+    "author": "Citrax",
+    "verifier": "Parithon",
+    "verification": "https://www.youtube.com/watch?v=ca5cJnEHNIo",
+    "records": [
+        {
+            "user": "ruby",
+            "link": "https://www.youtube.com/watch?v=62iMVHE6CEQ",
+            "percent": 100
+        },
+        {
+            "user": "TheRealApi",
+            "link": "https://www.youtube.com/watch?v=Fjgnp0wpLUc",
+            "percent": 100
+        }
+    ]
+}

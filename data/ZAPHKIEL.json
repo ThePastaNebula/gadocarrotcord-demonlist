@@ -1,0 +1,23 @@
+{
+    "name": "ZAPHKIEL",
+    "author": "Darwin",
+    "verifier": "ThePastaNebula",
+    "verification": "http://www.youtube.com/watch?v=NorjAgIsNVE",
+    "records": [
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=oFAAoyZ-zD8",
+            "percent": 100
+        },
+        {
+            "user": "Fearme718",
+            "link": "https://www.youtube.com/watch?v=z2TMHUZnHzQ",
+            "percent": 100
+        },
+        {
+            "user": "TheRealApi",
+            "link": "https://www.youtube.com/watch?v=MCYUiQceSCw",
+            "percent": 100
+        }
+    ]
+}

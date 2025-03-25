@@ -1,0 +1,18 @@
+{
+    "name": "Sunset Sandstorm",
+    "author": "Crohn44",
+    "verifier": "Parithon",
+    "verification": "https://www.youtube.com/watch?v=Fd4c3ymqv6I",
+    "records": [
+        {
+            "user": "ThePastaNebula",
+            "link": "https://www.youtube.com/watch?v=JVfceVp7q3g",
+            "percent": 100
+        },
+        {
+            "user": "TheRealApi",
+            "link": "https://www.youtube.com/watch?v=QuJFHqkwp08",
+            "percent": 100
+        }
+    ]
+}

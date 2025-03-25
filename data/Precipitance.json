@@ -1,0 +1,18 @@
+{
+    "name": "Precipitance",
+    "author": "Extravagon",
+    "verifier": "vaughn",
+    "verification": "https://www.youtube.com/watch?v=5KvGgg62fZs",
+    "records": [
+        {
+            "user": "ThePastaNebula",
+            "link": "https://www.youtube.com/watch?v=-jCa9CbL-F8",
+            "percent": 100
+        },
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=HcA_jtFMCHc",
+            "percent": 100
+        }
+    ]
+}

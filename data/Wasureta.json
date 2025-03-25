@@ -1,0 +1,18 @@
+{
+    "name": "Wasureta",
+    "author": "HelpegsuS",
+    "verifier": "Parithon",
+    "verification": "https://www.youtube.com/watch?v=z-XUhMtYdQU",
+    "records": [
+        {
+            "user": "vaughn",
+            "link": "https://www.youtube.com/watch?v=9n5TEsUF4Lg",
+            "percent": 100
+        },
+        {
+            "user": "surrounded",
+            "link": "https://www.youtube.com/watch?v=JiRuAePdr-0",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Thinking Space",
+    "author": "Atomic",
+    "verifier": "Parithon",
+    "verification": "https://www.youtube.com/watch?v=oGHHzMP92ZM",
+    "records": [
+        {
+            "user": "vaughn",
+            "link": "https://www.youtube.com/watch?v=V9monZWc9JM",
+            "percent": 100
+        }
+    ]
+}

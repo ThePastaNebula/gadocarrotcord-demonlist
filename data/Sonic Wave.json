@@ -1,0 +1,33 @@
+{
+    "name": "Sonic Wave",
+    "author": "lSunix",
+    "verifier": "therealGDF",
+    "verification": "http://www.youtube.com/watch?v=QmfGSLxA_jM",
+    "records": [
+        {
+            "user": "Gado",
+            "link": "https://www.youtube.com/watch?v=_e1sjOql2PM",
+            "percent": 100
+        },
+        {
+            "user": "Parithon",
+            "link": "https://www.youtube.com/watch?v=FRQO4L6q1Lk",
+            "percent": 100
+        },
+        {
+            "user": "ThePastaNebula",
+            "link": "http://www.youtube.com/watch?v=hN4YhPy_Xt4",
+            "percent": 100
+        },
+        {
+            "user": "sydno",
+            "link": "https://www.youtube.com/watch?v=P2GYO0GkB5M",
+            "percent": 100
+        },
+        {
+            "user": "Jade",
+            "link": "https://www.youtube.com/watch?v=ECRu_qce8Ac",
+            "percent": 100
+        }
+    ]
+}
