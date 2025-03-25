@@ -1,0 +1,68 @@
+{
+    "name": "Bloodbath",
+    "author": "Riot",
+    "verifier": "TheRealApi",
+    "verification": "https://www.youtube.com/watch?v=dpk_b7eHKF0",
+    "records": [
+        {
+            "user": "Muffin Cat",
+            "link": "https://www.youtube.com/watch?v=Y41038SaqqM",
+            "percent": 100
+        },
+        {
+            "user": "Gado",
+            "link": "https://youtu.be/X1xOy5jFskA",
+            "percent": 100
+        },
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=pq0ocpBoeH4",
+            "percent": 100
+        },
+        {
+            "user": "Parithon",
+            "link": "https://www.youtube.com/watch?v=g7EaMLKLARk",
+            "percent": 100
+        },
+        {
+            "user": "Skyia321",
+            "link": "https://www.youtube.com/watch?v=Zj8tMyh6_eo",
+            "percent": 100
+        },
+        {
+            "user": "Fearme718",
+            "link": "https://www.youtube.com/watch?v=zjpYRI5upw0",
+            "percent": 100
+        },
+        {
+            "user": "vaughn",
+            "link": "https://www.youtube.com/watch?v=_ANZEVX6Nn8",
+            "percent": 100
+        },
+        {
+            "user": "ThePastaNebula",
+            "link": "https://www.youtube.com/watch?v=qBidXTEi-j0",
+            "percent": 100
+        },
+        {
+            "user": "sydno",
+            "link": "https://www.youtube.com/watch?v=nsIsF49F9H4",
+            "percent": 100
+        },
+        {
+            "user": "FBITB",
+            "link": "https://www.youtube.com/watch?v=4_pN46bfR5o",
+            "percent": 100
+        },
+        {
+            "user": "ruby",
+            "link": "https://www.youtube.com/watch?v=gQNLg0jzYcs",
+            "percent": 100
+        },
+        {
+            "user": "surrounded",
+            "link": "https://www.youtube.com/watch?v=yJu1Qmbr2_4",
+            "percent": 100
+        }
+    ]
+}

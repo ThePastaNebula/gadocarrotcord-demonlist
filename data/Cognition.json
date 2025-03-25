@@ -1,0 +1,33 @@
+{
+    "name": "Cognition",
+    "author": "Endlevel",
+    "verifier": "Parithon",
+    "verification": "https://www.youtube.com/watch?v=0BziKet9TC0",
+    "records": [
+        {
+            "user": "Gado",
+            "link": "https://www.youtube.com/watch?v=4ByCbVtktz4",
+            "percent": 100
+        },
+        {
+            "user": "kami",
+            "link": "https://www.youtube.com/watch?v=W66r-Y51ViU",
+            "percent": 100
+        },
+        {
+            "user": "surrounded",
+            "link": "https://www.youtube.com/watch?v=vvSjY10Ilo0",
+            "percent": 100
+        },
+        {
+            "user": "Jade",
+            "link": "https://www.youtube.com/watch?v=VKjqrhqrG0o",
+            "percent": 100
+        },
+        {
+            "user": "TheRealApi",
+            "link": "https://www.youtube.com/watch?v=0gbcXoIGeis",
+            "percent": 100
+        }
+    ]
+}

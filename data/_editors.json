@@ -1,0 +1,27 @@
+[
+    {
+        "role": "owner",
+        "name": "ThePastaNebula",
+        "link": "https://www.youtube.com/@thepastanebula"
+    },
+    {
+        "role": "admin",
+        "name": "therealGDF",
+        "link": "https://www.youtube.com/@therealgdf7502"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]

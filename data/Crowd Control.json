@@ -1,0 +1,13 @@
+{
+    "name": "Crowd Control",
+    "author": "Movietheaters",
+    "verifier": "ruby",
+    "verification": "https://www.youtube.com/watch?v=lhjI-nxoV4g",
+    "records": [
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=ha28KLdXCHs",
+            "percent": 100
+        }
+    ]
+}

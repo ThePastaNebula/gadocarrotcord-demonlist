@@ -1,0 +1,23 @@
+{
+    "name": "doradura",
+    "author": "IvashkaUA",
+    "verifier": "Parithon",
+    "verification": "https://www.youtube.com/watch?v=fsTZO40wzV8",
+    "records": [
+        {
+            "user": "vaughn",
+            "link": "https://www.youtube.com/watch?v=993pK2svnS4",
+            "percent": 100
+        },
+        {
+            "user": "sydno",
+            "link": "https://www.youtube.com/watch?v=jv0CkpDyAKc",
+            "percent": 100
+        },
+        {
+            "user": "kami",
+            "link": "https://www.youtube.com/watch?v=Pgd_VGVIZU8",
+            "percent": 100
+        }
+    ]
+}

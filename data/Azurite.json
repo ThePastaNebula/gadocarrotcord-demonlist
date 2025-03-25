@@ -1,0 +1,38 @@
+{
+    "name": "Azurite",
+    "author": "Sillow",
+    "verifier": "ThePastaNebula",
+    "verification": "https://www.youtube.com/watch?v=2MWixs0nk1I",
+    "records": [
+        {
+            "user": "Gado",
+            "link": "https://www.youtube.com/watch?v=S6vZ66VBH4A",
+            "percent": 100
+        },
+        {
+            "user": "vaughn",
+            "link": "https://www.youtube.com/watch?v=yAiNt9dgctg",
+            "percent": 100
+        },
+        {
+            "user": "Fearme718",
+            "link": "https://www.youtube.com/watch?v=ZzEyBMI9iII",
+            "percent": 100
+        },
+        {
+            "user": "TheRealApi",
+            "link": "https://www.youtube.com/watch?v=93L_Cs06-7Q",
+            "percent": 100
+        },
+        {
+            "user": "ruby",
+            "link": "https://www.youtube.com/watch?v=cd1Mw5qJeMI",
+            "percent": 100
+        },
+        {
+            "user": "therealGDF",
+            "link": "https://www.youtube.com/watch?v=BbrGtFBYZQI",
+            "percent": 100
+        }
+    ]
+}

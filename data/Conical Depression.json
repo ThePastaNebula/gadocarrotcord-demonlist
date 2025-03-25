@@ -1,0 +1,18 @@
+{
+    "name": "Conical Depression",
+    "author": "KrmaL",
+    "verifier": "ThePastaNebula",
+    "verification": "https://www.youtube.com/watch?v=hHocZI5luow",
+    "records": [
+        {
+            "user": "sydno",
+            "link": "https://www.youtube.com/watch?v=ruVDVqD3yb8",
+            "percent": 100
+        },
+        {
+            "user": "vaughn",
+            "link": "https://www.youtube.com/watch?v=hipLUqRZQwI",
+            "percent": 100
+        }
+    ]
+}

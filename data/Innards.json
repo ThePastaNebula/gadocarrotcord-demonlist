@@ -1,0 +1,23 @@
+{
+    "name": "Innards",
+    "author": "Kaito",
+    "verifier": "sydno",
+    "verification": "https://www.youtube.com/watch?v=jJQrt1ToFmM",
+    "records": [
+        {
+            "user": "Skyia321",
+            "link": "https://www.youtube.com/watch?v=JSv3U_zABHs",
+            "percent": 100
+        },
+        {
+            "user": "Sebi",
+            "link": "https://www.youtube.com/watch?v=PNmA2uaTEh4",
+            "percent": 100
+        },
+        {
+            "user": "TheRealApi",
+            "link": "https://www.youtube.com/watch?v=Huvp7pxHAfo",
+            "percent": 100
+        }
+    ]
+}

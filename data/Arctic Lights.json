@@ -1,0 +1,18 @@
+{
+    "name": "Arctic Lights",
+    "author": "Metalface221",
+    "verifier": "Gado",
+    "verification": "https://youtu.be/s4Rn5aHFPro?si=5uWzuC_uLVs9bvA1",
+    "records": [
+        {
+            "user": "sydno",
+            "link": "https://www.youtube.com/watch?v=JZwdZZCFHWs",
+            "percent": 100
+        },
+        {
+            "user": "surrounded",
+            "link": "https://www.youtube.com/watch?v=Fl1masVQ-_w",
+            "percent": 100
+        }
+    ]
+}
