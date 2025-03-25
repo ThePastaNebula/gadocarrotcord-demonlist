@@ -1,7 +1,7 @@
-import { store } from "../gadocarrotcord-demonlist/main.js";
-import { embed } from "../gadocarrotcord-demonlist/util.js";
-import { score } from "../gadocarrotcord-demonlist/score.js";
-import { fetchEditors, fetchList } from "../gadocarrotcord-demonlist/content.js";
+import { store } from "../main.js";
+import { embed } from "../util.js";
+import { score } from "../score.js";
+import { fetchEditors, fetchList } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
