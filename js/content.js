@@ -6,8 +6,14 @@ import { round, score } from './score.js';
 const dir = 'data';
 
 export async function fetchList() {
-    // const listResult = await fetch(`${dir}/_list.json`);
-    const listResult = await fetch("data/_list.json");
+    try {
+    const listResult = await fetch(`${dir}/_list.json`);
+    if (!listResult.ok) throw new Error(`HTTP Error! Status: ${listResult.status}`);
+    const list = await listResult.json();
+    console.log("JSON Loaded:", list);
+} catch (error) {
+    console.error("Fetch failed:", error);
+}
     try {
         const list = await listResult.json();
         return await Promise.all(
